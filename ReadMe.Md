@@ -1,34 +1,40 @@
-# Python Chatbot Project
+# Python Chatbot Project 🤖
 
-I built this project while learning how AI agents work. 
-Instead of just making one chatbot, I tried building 
-the same idea in 5 different ways to see how each approach changes the behaviour.
+Exploring 5 different AI agent architectures in Python — from simple reflex to utility-based agents.
 
-## What's inside
+---
 
-**01 — Basic reflex chatbot**  
-The simplest version. It just looks at what you typed and picks a response. No memory, no thinking ahead.
+## 🧠 What's Inside
 
-**02 — ChatterBot**  
-Same idea but using a library that handles the NLP side of things. Easier to set up, less control.
+| # | Agent Type | Description | Status |
+|---|---|---|---|
+| 01 | Basic Reflex | Looks at input, picks a response. No memory. | ✅ Done |
+| 02 | ChatterBot | NLP-based library chatbot. Easier setup. | ✅ Done |
+| 03 | Model-based | Remembers previous conversation context. | 🔨 In progress |
+| 04 | Goal-based | Works towards a defined objective. | 🔨 In progress |
+| 05 | Utility-based | Scores responses and picks the best one. | 🔨 In progress |
 
-**03 — Model-based agent**  (in build)
-This one actually remembers what happened earlier in the conversation. A bit smarter.
+---
 
-**04 — Goal-based agent**  (in build)
-Instead of just reacting, this one tries to work towards something. Closer to how you'd build a real assistant.
+## 🧰 Tech Stack
 
-**05 — Utility-based agent**   (in build)
-Picks the "best" response based on a score. More flexible than the others.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+---
 
+## 🚀 How to Run
 
-## Tech Stack
-- Python
-- Jupyter Notebook
+```bash
+git clone https://github.com/Akakiusz/simple-chat-bots
+cd simple-chat-bots
+jupyter notebook
+```
 
+Open any notebook from the `NOOTEBOOKS` folder and run all cells.
 
-## How to run
-1. Clone repo
-2. Open notebook in Jupyter
-3. Run all cells
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ark-jedrzejewsky/)s
