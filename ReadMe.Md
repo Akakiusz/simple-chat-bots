@@ -1,10 +1,10 @@
-# Python Chatbot Project 🤖
+# Python Chatbot Project
 
 Exploring 5 different AI agent architectures in Python — from simple reflex to utility-based agents.
 
 ---
 
-## 🧠 What's Inside
+## What's Inside
 
 | # | Agent Type | Description | Status |
 |---|---|---|---|
@@ -16,14 +16,14 @@ Exploring 5 different AI agent architectures in Python — from simple reflex to
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/Akakiusz/simple-chat-bots
@@ -35,6 +35,6 @@ Open any notebook from the `NOOTEBOOKS` folder and run all cells.
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ark-jedrzejewsky/)s
