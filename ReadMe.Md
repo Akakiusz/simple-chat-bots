@@ -10,7 +10,7 @@ Exploring 5 different AI agent architectures in Python — from simple reflex to
 |---|---|---|---|
 | 01 | Basic Reflex | Looks at input, picks a response. No memory. | ✅ Done |
 | 02 | ChatterBot | NLP-based library chatbot. Easier setup. | ✅ Done |
-| 03 | Model-based | Remembers previous conversation context. | 🔨 In progress |
+| 03 | Model-based | Remembers previous conversation context. | ✅ Done |
 | 04 | Goal-based | Works towards a defined objective. | 🔨 In progress |
 | 05 | Utility-based | Scores responses and picks the best one. | 🔨 In progress |
 
